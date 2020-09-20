@@ -1,0 +1,14 @@
+Index: src/bitacora/Bitacora.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/bitacora/Bitacora.java	(revision 1577ac17882854c8e200b9e2582396f7c150a9d2)
++++ src/bitacora/Bitacora.java	(revision d322ffae69a93aa0bb166da5549e3fb94dc2d5c1)
+@@ -17,5 +17,5 @@
+         AgregarAdministrador a = new AgregarAdministrador();
+         a.setVisible(true);
+     }
+-    
++    //Estamos haciendo una prueba para github
+ }
