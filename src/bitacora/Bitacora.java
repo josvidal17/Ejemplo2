@@ -17,5 +17,5 @@ public class Bitacora {
         AgregarAdministrador a = new AgregarAdministrador();
         a.setVisible(true);
     }
-    
+    //Estamos haciendo una prueba para github
 }
