@@ -17,6 +17,6 @@ public class Bitacora {
         AgregarAdministrador a = new AgregarAdministrador();
         a.setVisible(true);
     }
-    //Guardamos el codigo en un repositorio llamado......
+    //Guardamos el codigo en un repositorio llamado........
     /* GUARDAR-BITACORA */
 }
